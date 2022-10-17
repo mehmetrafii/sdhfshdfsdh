@@ -1,0 +1,8 @@
+C:\Users\mehmet.akkus\Desktop\C#\Iskur302\Dizi\bin\Debug\Dizi.exe.config
+C:\Users\mehmet.akkus\Desktop\C#\Iskur302\Dizi\bin\Debug\Dizi.exe
+C:\Users\mehmet.akkus\Desktop\C#\Iskur302\Dizi\bin\Debug\Dizi.pdb
+C:\Users\mehmet.akkus\Desktop\C#\Iskur302\Dizi\obj\Debug\Dizi.csproj.AssemblyReference.cache
+C:\Users\mehmet.akkus\Desktop\C#\Iskur302\Dizi\obj\Debug\Dizi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehmet.akkus\Desktop\C#\Iskur302\Dizi\obj\Debug\Dizi.csproj.CoreCompileInputs.cache
+C:\Users\mehmet.akkus\Desktop\C#\Iskur302\Dizi\obj\Debug\Dizi.exe
+C:\Users\mehmet.akkus\Desktop\C#\Iskur302\Dizi\obj\Debug\Dizi.pdb
